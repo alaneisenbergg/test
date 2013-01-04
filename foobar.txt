@@ -4,3 +4,4 @@ Wed Jan 02 2013 00:00:00 GMT-0800 (Pacific Standard Time) -> commit 3
 Wed Jan 02 2013 00:00:00 GMT-0800 (Pacific Standard Time) -> commit 4
 Wed Jan 02 2013 00:00:00 GMT-0800 (Pacific Standard Time) -> commit 5
 Thu Jan 03 2013 00:00:00 GMT-0800 (Pacific Standard Time) -> commit 6
+Fri Jan 04 2013 00:00:00 GMT-0800 (Pacific Standard Time) -> commit 7

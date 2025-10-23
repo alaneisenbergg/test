@@ -2,7 +2,7 @@
 echo 'GENERATING ART...'
 mkdir github_painter
 cd github_painter
-git init
+git init 
 git remote add origin https://github.com/alaneisenbergg/test.git
 git pull origin main
 touch foobar.txt
